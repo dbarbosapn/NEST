@@ -1,0 +1,6 @@
+.vscode/
+output/*
+models/*
+!**/.keep
+**/__pycache__
+venv/
